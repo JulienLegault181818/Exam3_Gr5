@@ -1,0 +1,13 @@
+Question 1
+
+Dans la cle_gr5
+Il faut que les lettres aient une rotation de 5(césar).
+
+Le "m" qui est à la position 0 doit être à la position 5.
+
+Le message sera écrit la première fois avec la cle_gr5.
+
+Notre code va recevoir le message encrypté par la cle_gr5 et applique une rotation césar de 5.
+
+On print le message que notre rotation a faite à l'utilisateur.
+
